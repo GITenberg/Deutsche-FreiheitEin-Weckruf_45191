@@ -1,0 +1,33 @@
+_repo: Deutsche-FreiheitEin-Weckruf_45191
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45191-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Eucken, Rudolf
+    aliases:
+    - Eucken, Rudolph
+    - Eucken, Rudolf Christof
+    - Eucken, R.‏ (Rudolf)
+    birthdate: 1846
+    deathdate: 1926
+    gutenberg_agent_id: '42188'
+    url: http://www.gutenberg.org/2009/agents/42188
+    wikipedia: http://en.wikipedia.org/wiki/Rudolf_Christoph_Eucken
+description: ''
+gutenberg_issued: '2014-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45191'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany -- Civilization'
+- !lcc 'DD'
+- !lcsh 'Liberty'
+- !lcsh 'Germany -- Politics and government -- 1918-1933'
+title: 'Deutsche Freiheit: Ein Weckruf'
+url: http://www.gutenberg.org/ebooks/45191
